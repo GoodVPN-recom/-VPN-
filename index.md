@@ -21,7 +21,7 @@ description: 2026年国产VPN与网络加速器推荐，对比灯塔加速器、
   <p><strong>适合：</strong>ChatGPT、Claude、Google、YouTube、GitHub、海外办公和开发。</p>
   <p><strong>平台：</strong>Windows、Android</p>
   <div class="cta-row">
-    <a class="cta primary" href="[[https://www.beaconlink.cc](https://www.beaconlink.cc/reg?ref=EDIrJlYg)/](https://www.beaconlink.cc/reg?ref=EDIrJlYg)" target="_blank" rel="noopener">访问灯塔官网</a>
+        <a class="cta primary" href="https://www.beaconlink.cc/reg?ref=EDIrJlYg" target="_blank" rel="noopener">访问灯塔官网</a>
   </div>
 </div>
 
